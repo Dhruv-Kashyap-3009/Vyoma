@@ -16,7 +16,7 @@ An AI-driven GIS platform that predicts hazard-based Red Zones across 7 North-Ea
 
 ## 🚀 Download and Run
 
-Everything lives in one repository:
+Everything lives in one single repository:
 
 ```bash
 git clone https://github.com/Dhruv-Kashyap-3009/SIH2026.git
